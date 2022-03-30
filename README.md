@@ -15,7 +15,7 @@ This repository contains an AI that recognizes and classifies defects in metal s
 
 The dataset used was downloaded from the NEU Metal Surface Defects Databse, the link will available below. This contains six types of surface defects typical of hot rolled steel strip, namely rolled scale (RS), patches (Pa), cracks (Cr), perforated surface (PS), inclusion (In) and scratches (Sc ). The database includes 1800 grayscale images, 300 of which are samples of six different types of typical surface defects.
 
-![Data](https://user-images.githubusercontent.com/57842220/160744702-c2620e1e-2d7e-4c7c-b8c0-fc1a9e0daf11.png)
+![Data](https://user-images.githubusercontent.com/57842220/160866734-688bd816-3772-47ad-a470-a61834f18296.png)
 
 🔢 Dataset on [Kaggle](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data/metadata).
 
