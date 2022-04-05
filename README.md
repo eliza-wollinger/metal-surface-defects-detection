@@ -25,7 +25,7 @@ If you want to run this script on your machine, first you need to make sure that
 
 After that, it is necessary to clone this repository, copy the command below, and paste it in your terminal (in the folder you prefer).
 ````
-git clone 
+git clone https://github.com/wollieliza/metal-surface-defects-detection.git
 ````
 Finally, you give the command to open jupyter:
 ````
