@@ -19,7 +19,7 @@ The dataset used was downloaded from the NEU Metal Surface Defects Databse, the 
 
 🔢 Dataset on [Kaggle](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data/metadata).
 
-### 🏃  How to run the code?
+### 🏃  How to run this code?
 
 If you want to run this script on your machine, first you need to make sure that all the libraries are installed, along with the Jupyter Notebook IDE, or another one of your choice.
 
